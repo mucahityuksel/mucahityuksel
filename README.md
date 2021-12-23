@@ -2,7 +2,7 @@
 
 ## I am a Web and Flutter Developer
 -  I graduated from  Konya Technical University.
--  I learned  Java,Html,Css,Dart,Flutter,Node.js,React,Python, Image Processing, Deep Learning on University.
+-  I learned  Html,Css,Javascript,React,Node.js,Dart,Flutter,Python, Image Processing, Deep Learning on University.
 -  I did a Sign Language Translator on Flutter
 -  I usually spend my time working on web programming.
 
