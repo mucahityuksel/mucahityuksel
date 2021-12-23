@@ -24,7 +24,5 @@
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
 <img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 <img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="SourceTree" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" />
