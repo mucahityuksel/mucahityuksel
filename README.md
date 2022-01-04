@@ -1,6 +1,6 @@
 ###  Hi there, I'm Mücahit
 
-## I am a Web and Flutter Developer
+## I am a Web Developer
 -  I graduated from  Konya Technical University.
 -  I learned  Html,Css,Javascript,React,Node.js,Dart,Flutter,Python, Image Processing, Deep Learning on University.
 -  I did a Sign Language Translator on Flutter
