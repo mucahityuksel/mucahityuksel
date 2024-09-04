@@ -1,6 +1,6 @@
 ###  Hi there, I'm Mücahit
 
-## I am a Web Developer
+## I am Frontend Developer
 -  I graduated from  Konya Technical University.
 -  I learned  Html, Css, Javascript, React, Typescript, Node.js, Dart, Flutter, Python, Image Processing, Deep Learning on University.
 -  I usually spend my time working on web programming.
